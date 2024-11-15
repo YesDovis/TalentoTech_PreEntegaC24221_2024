@@ -23,7 +23,13 @@ El menú debe permitir al usuario seleccionar entre diferentes opciones relacion
 Entre las opciones, deben incluirse: agregar productos al inventario y mostrar los productos registrados.
 
 `MENU`  
-+ DESARROLLO.
++ Este menú interactivo ha sido desarrollado para facilitar la gestión del inventario de la cervecería 'La Birra es Bella'. Al iniciar, se presenta un listado de opciones para realizar diversas tareas. Entre las funcionalidades disponibles se incluyen: registrar un nuevo producto, consultar el inventario actual, y actualizar el stock de un producto existente. Adicionalmente, se han previsto futuras funciones para eliminar productos del inventario y generar alertas de productos con bajo stock, que estarán disponibles en próximas versiones. Para utilizar el sistema, simplemente seleccione el número correspondiente a la opción deseada y presione Enter. Si desea finalizar la sesión, elija la opción 6 para salir del programa. Este sistema proporciona una solución eficiente y organizada para optimizar la gestión de su inventario. 🍺📦
+
+`Debugging` 
+
+<div aling="center">
+    <img src="/img/menu.jpg>
+</div>
 
 ___
 
@@ -59,6 +65,5 @@ ___
 </div>
 
 **    ©     [DOVIS YESICA]   2024  . Todos los derechos reservados.   Gracias TOTALES / Goal achieved!!!!   **
-
 
 ___
